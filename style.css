@@ -1,0 +1,30 @@
+body {
+background-color: lightblue;
+  color: violet;
+}
+h1,h2{
+	color:red;
+	background-color:Violet;
+}
+table,td,th {
+	border: 2px solid blue;
+}
+
+.text-center {
+		text-align: center;
+}
+.border {
+	border-styles: dotted;
+}
+#rounded-img {
+	border-radius: 90px;
+}
+
+img:hover {
+	opacity: 0.5;
+}
+
+ol {
+	list-style-type: lower-roman;
+	list-style-position: inside;
+}
